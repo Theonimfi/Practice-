@@ -1,6 +1,7 @@
 /* for exercise java_1 */
 
 public class User {
+
 	private String username;
 	private String password;
 	private String fullname;
