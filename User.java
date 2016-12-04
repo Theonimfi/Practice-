@@ -20,7 +20,7 @@ public class User {
 		 password = passwd;
 	}
 
-	public void setFullname(String fname) {
+	public void setFull(String fname) {
 		fullname = fname;
 	}
 
